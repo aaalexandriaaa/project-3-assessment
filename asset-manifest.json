@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/git%20branch%20-M%20master/static/css/main.e3a6c5a6.chunk.css",
+    "main.js": "/git%20branch%20-M%20master/static/js/main.3420b1f5.chunk.js",
+    "main.js.map": "/git%20branch%20-M%20master/static/js/main.3420b1f5.chunk.js.map",
+    "runtime-main.js": "/git%20branch%20-M%20master/static/js/runtime-main.62ce93a7.js",
+    "runtime-main.js.map": "/git%20branch%20-M%20master/static/js/runtime-main.62ce93a7.js.map",
+    "static/js/2.2553baad.chunk.js": "/git%20branch%20-M%20master/static/js/2.2553baad.chunk.js",
+    "static/js/2.2553baad.chunk.js.map": "/git%20branch%20-M%20master/static/js/2.2553baad.chunk.js.map",
+    "index.html": "/git%20branch%20-M%20master/index.html",
+    "precache-manifest.b47b34a405404a3e1f642e5484f2577e.js": "/git%20branch%20-M%20master/precache-manifest.b47b34a405404a3e1f642e5484f2577e.js",
+    "service-worker.js": "/git%20branch%20-M%20master/service-worker.js",
+    "static/css/main.e3a6c5a6.chunk.css.map": "/git%20branch%20-M%20master/static/css/main.e3a6c5a6.chunk.css.map",
+    "static/js/2.2553baad.chunk.js.LICENSE.txt": "/git%20branch%20-M%20master/static/js/2.2553baad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62ce93a7.js",
+    "static/js/2.2553baad.chunk.js",
+    "static/css/main.e3a6c5a6.chunk.css",
+    "static/js/main.3420b1f5.chunk.js"
+  ]
+}
