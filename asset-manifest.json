@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/git%20branch%20-M%20master/static/css/main.e3a6c5a6.chunk.css",
-    "main.js": "/git%20branch%20-M%20master/static/js/main.3420b1f5.chunk.js",
-    "main.js.map": "/git%20branch%20-M%20master/static/js/main.3420b1f5.chunk.js.map",
+    "main.css": "/git%20branch%20-M%20master/static/css/main.1d0ca81b.chunk.css",
+    "main.js": "/git%20branch%20-M%20master/static/js/main.8a3b5f8a.chunk.js",
+    "main.js.map": "/git%20branch%20-M%20master/static/js/main.8a3b5f8a.chunk.js.map",
     "runtime-main.js": "/git%20branch%20-M%20master/static/js/runtime-main.62ce93a7.js",
     "runtime-main.js.map": "/git%20branch%20-M%20master/static/js/runtime-main.62ce93a7.js.map",
-    "static/js/2.2553baad.chunk.js": "/git%20branch%20-M%20master/static/js/2.2553baad.chunk.js",
-    "static/js/2.2553baad.chunk.js.map": "/git%20branch%20-M%20master/static/js/2.2553baad.chunk.js.map",
+    "static/js/2.32b3268b.chunk.js": "/git%20branch%20-M%20master/static/js/2.32b3268b.chunk.js",
+    "static/js/2.32b3268b.chunk.js.map": "/git%20branch%20-M%20master/static/js/2.32b3268b.chunk.js.map",
     "index.html": "/git%20branch%20-M%20master/index.html",
-    "precache-manifest.b47b34a405404a3e1f642e5484f2577e.js": "/git%20branch%20-M%20master/precache-manifest.b47b34a405404a3e1f642e5484f2577e.js",
+    "precache-manifest.d7fd006ace0f669115644991f1940f09.js": "/git%20branch%20-M%20master/precache-manifest.d7fd006ace0f669115644991f1940f09.js",
     "service-worker.js": "/git%20branch%20-M%20master/service-worker.js",
-    "static/css/main.e3a6c5a6.chunk.css.map": "/git%20branch%20-M%20master/static/css/main.e3a6c5a6.chunk.css.map",
-    "static/js/2.2553baad.chunk.js.LICENSE.txt": "/git%20branch%20-M%20master/static/js/2.2553baad.chunk.js.LICENSE.txt"
+    "static/css/main.1d0ca81b.chunk.css.map": "/git%20branch%20-M%20master/static/css/main.1d0ca81b.chunk.css.map",
+    "static/js/2.32b3268b.chunk.js.LICENSE.txt": "/git%20branch%20-M%20master/static/js/2.32b3268b.chunk.js.LICENSE.txt",
+    "static/media/party.gif": "/git%20branch%20-M%20master/static/media/party.5c087104.gif",
+    "static/media/shahzad.png": "/git%20branch%20-M%20master/static/media/shahzad.fff167f0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.62ce93a7.js",
-    "static/js/2.2553baad.chunk.js",
-    "static/css/main.e3a6c5a6.chunk.css",
-    "static/js/main.3420b1f5.chunk.js"
+    "static/js/2.32b3268b.chunk.js",
+    "static/css/main.1d0ca81b.chunk.css",
+    "static/js/main.8a3b5f8a.chunk.js"
   ]
 }
